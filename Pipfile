@@ -9,6 +9,7 @@ verify_ssl = true
 django = "*"
 django-countries = "*"
 pillow = "*"
+django-seed = "*"
 
 [requires]
 python_version = "3.7"
